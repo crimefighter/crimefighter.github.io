@@ -14,6 +14,7 @@ It seems like a lot of people did the same thing, enough to get Google Reader sh
 First is to treat it like e-mail. This is rather old approach and it may seem obsolete, but a majority of modern RSS readers are still following it. They are designed to give you a big picture of your inbox and your folders. There is a lot of navigation and chrome to help you filter your inbox quickly and unread counts constantly remind you that you may be missing something important. All these things distract you and obstruct your reading experience.
 
 ![The Old Reader](/assets/theoldreader.png)
+(Screenshot: [The Old Reader](http://theoldreader.com))
 
 A more modern approach is to treat RSS like a magazine. Apps that provide a personalized digital magazine, like Flipboard and Zite, are very popular on tablets and cellphones. These apps focus on content presentation and provide much better reading experience.
 
@@ -28,6 +29,8 @@ But do these apps really provide this experience on a digital medium? Let's have
 
 ![Zite](/assets/zite.jpeg)
 ![Flipboard](/assets/flipboard.jpeg)
+
+(Screenshots: [Zite](http://zite.com) and [Flipboard](http://flipboard.com))
 
 The problem is that they only reproduce visual features of a magazine, the most notable of them being multi column layout. But it doesn't work well on a digital medium, even if it's a tablet, so they have to cut corners. They are only displaying previews instead of full articles, so you have to tap one to read the article and then go back to previews to pick another one. This is not something you do with a magazine. Continuous reading experience is gone and navigation becomes less obvious and involves multiple levels.
 
