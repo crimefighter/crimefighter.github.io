@@ -36,6 +36,8 @@ The problem is that they only reproduce visual features of a magazine, the most 
 
 So instead of trying to mimic a paper magazine on a digital medium, I focused on reproducing things that are most important for my experience with it. The result is a minimalistic RSS reader designed to present you a continuous stream of your updates in a comfortable to read way and minimize distractions. 100% of the page is dedicated to give content space to breathe and shine. It is called Thin RSS Reader.
 
+![Thin RSS Reader](/assets/thinrssreader.png)
+
 Thin Reader is a mix of the two approaches to RSS. It has all the features needed to organize your sources and filter your content stream, but this functionality is designed to stay away until it's needed. The app is currently in the alpha stage, but it is already capable of being your RSS reader. I will greatly appreciate if you give it a try and share any thoughts on it. Was it able to change your experience with RSS? Did it help you concentrate on long texts? Please use the comments form or e-mail to [contact@thinrssreader.com](mailto:contact@thinrssreader.com).
 
 [Visit Thin RSS Reader](http://thinrssreader.com)
